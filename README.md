@@ -1,4 +1,4 @@
-#PROGRAMACION 1
+PROGRAMACION 1
 
 Repositorio general para programación 1 - UMAYOR. 
 
